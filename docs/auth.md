@@ -2,7 +2,11 @@
 
 ## Request
 
-> uid : String
+```
+{
+  uid : String
+}
+```
 
 ## Response : Success
 
